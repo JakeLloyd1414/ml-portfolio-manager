@@ -1,4 +1,4 @@
-# Stock Trading Bot
+# ML Portfolio Manager
 
 Weekly automated trading system using XGBoost models for stock prediction.
 
