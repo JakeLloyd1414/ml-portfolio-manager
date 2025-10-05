@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+xgboost
+scikit-learn
+cohere
+python-dotenv
+schedule

@@ -1,0 +1,12 @@
+def display_menu():
+    print("\n" + "="*50)
+    print("PORTFOLIO MANAGER")
+    print("="*50)
+    print("1. Train Models (or load existing)")
+    print("2. Force Retrain All Models")
+    print("3. Start Live Trading")
+    print("4. Start Live Monitoring (No Buying)")
+    print("5. Manual Sell Position")
+    print("6. View Portfolio Status")
+    print("7. Exit")
+    print("-"*50)
